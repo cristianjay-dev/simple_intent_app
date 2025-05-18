@@ -1,4 +1,4 @@
-#Simple Implicit and Explicit Intent Application
+# Simple Implicit and Explicit Intent Application
 - This is a simple Android application that demonstrates the use of both explicit and implicit intents. 
 - The app consists of two activities: MainActivity and DashboardActivity. 
 - The MainActivity contains buttons that trigger explicit and implicit intents to start the SecondActivity or open a web page, respectively.
